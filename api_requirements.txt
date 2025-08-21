@@ -1,0 +1,8 @@
+# API-specific requirements
+# These are compatible with the existing TensorFlow setup
+
+fastapi<0.100.0
+uvicorn<0.25.0
+pydantic<2.0.0
+python-multipart
+requests
